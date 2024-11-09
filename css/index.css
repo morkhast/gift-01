@@ -42,7 +42,7 @@
 
 @media (min-width: 500px) {
   .title {
-    letter-spacing: 20px;
+    letter-spacing: 17px;
   }
 }
 
@@ -69,7 +69,7 @@ a {
 
 .btn {
   border: none;
-  width: 15em;
+  width: 18em;
   height: 5em;
   border-radius: 3em;
   display: flex;
